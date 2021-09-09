@@ -1,8 +1,7 @@
 /*
  * File: 3-strcmp.c
- * Auth: Zakari Usman
+ * Auth: Gedeon Obae Gekonge
  */
-
 #include "main.h"
 
 /**
