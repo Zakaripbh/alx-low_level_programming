@@ -1,8 +1,3 @@
-/*
- * File: 1-memcpy.c
- * Auth: Zakari Usman
- */
-
 #include "main.h"
 /**
  * _memcpy - copies n bytes form the memory area src
@@ -15,10 +10,11 @@
 
 char *_memcpy(char *dest, char *src, unsigned int n)
 {
-        unsigned int i;
+	unsigned int i;
 
-        for (i = 0; i < n; i++)
-        {
-                dest[i] = src[i];
-        }
-        return (dest);
+	for (i = 0; i < n; i++)
+	{
+		dest[i] = src[i];
+	}
+	return (dest);
+}
