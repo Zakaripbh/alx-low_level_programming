@@ -1,6 +1,6 @@
 /*
  * File: 1-string_nconcat.c
- * Auth: Zakari Usman
+ * Auth: Gedeon Obae Gekonge
  */
 
 #include "main.h"
