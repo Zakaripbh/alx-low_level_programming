@@ -1,3 +1,8 @@
+/*
+ * File: 3-op_functions.c
+ * Auth: Zakari Usman
+ */
+
 #include "3-calc.h"
 
 int op_add(int a, int b);

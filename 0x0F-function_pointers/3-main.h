@@ -1,3 +1,8 @@
+/*
+ * File: 3-main.c
+ * Auth: Zakari Usman
+ */
+
 #include "3-calc.h"
 #include <stdlib.h>
 #include <stdio.h>
